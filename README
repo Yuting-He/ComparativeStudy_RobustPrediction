@@ -1,14 +1,12 @@
-\section*{Bachelor Thesis: Application of RobustPrediction to Low-Dimensional Datasets}
+# Bachelor Thesis: Application of RobustPrediction to Low-Dimensional Datasets
 
-This repository contains the experimental datasets and original code used in my Bachelor Thesis titled: \textit{Development and Application of an R Package for Hyperparameter Optimization Procedures that Improve the Robustness of Prediction Models}. 
+This repository contains the experimental datasets and original code used in my Bachelor Thesis titled: *Development and Application of an R Package for Hyperparameter Optimization Procedures that Improve the Robustness of Prediction Models*.
 
-\subsection*{Description}
+## Description
 
-In this thesis, I applied the \texttt{RobustPrediction} R package to low-dimensional datasets to evaluate its effectiveness in improving prediction robustness. This study is a comparative analysis based on the research conducted by Ellenbach et al. (2021). The repository includes all datasets and code used in this analysis.
+In this thesis, I applied the `RobustPrediction` R package to low-dimensional datasets to evaluate its effectiveness in improving prediction robustness. This study is a comparative analysis based on the research conducted by Ellenbach et al. (2021). The repository includes all datasets and code used in this analysis.
 
-\subsection*{Repository Contents}
+## Repository Contents
 
-\begin{itemize}
-    \item \textbf{/data/} - This folder contains the low-dimensional datasets used in the comparative study.
-    \item \textbf{/scripts/} - This folder contains the original R scripts that run the analysis and experiments, comparing the performance of \texttt{RobustPrediction} to other methods.
-\end{itemize}
+- **/data/** - This folder contains the low-dimensional datasets used in the comparative study.
+- **/scripts/** - This folder contains the original R scripts that run the analysis and experiments, comparing the performance of `RobustPrediction` to other methods.
