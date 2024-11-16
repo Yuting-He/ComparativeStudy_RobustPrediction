@@ -8,8 +8,8 @@ In this thesis, I applied the `RobustPrediction` R package to low-dimensional da
 
 ## Repository Contents
 
-- **`comparative_study_data.R`** - Implementation code for constructing the experimental datasets.
-- **`compare_data_gap.Rda`** - The low-dimensional datasets constructed using `comparative_study_data.R`.
+- **`comparative_study_data.R`** - Implementation code for constructing the experimental datasets. Requires loading `scenariogrid_AUC.RData` before running.
+- **`compare_data_gap.Rda`** - The low-dimensional datasets constructed using `comparative_study_data.R`. You can directly load this file to run the experiments.
 - **`comparative_study_experiment.R`** - Code for running experiments and generating the experimental results.
 - **`results_df_dim7_gap.Rda`** - Stored experimental results for 7-dimensional datasets, which can be loaded and used directly.
 - **`results_df_dim15_gap.Rda`** - Stored experimental results for 15-dimensional datasets, which can be loaded and used directly.
